@@ -1,0 +1,18 @@
+<div class="text-center">
+  <button
+    class="btn"
+    [class.btn-light]="activeButton !== 'result'"
+    [class.btn-dark]="activeButton === 'result'"
+    (click)="toggleButton('result')"
+  >
+    Results
+  </button>
+  <button
+    class="btn"
+    [class.btn-light]="activeButton !== 'wishlist'"
+    [class.btn-dark]="activeButton === 'wishlist'"
+    (click)="toggleButton('wishlist')"
+  >
+    Wish List
+  </button>
+</div>
