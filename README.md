@@ -107,7 +107,7 @@ Developed using Swift and SwiftUI, this section of the project extends the produ
 
 1. Clone the repository to your local machine
 
-2. Open the project folder **"iOS Based Development/frontend/Shopping"** in Xcode. (**Shoppong** folder is the only one need to be opened on Xcode)
+2. Open the project folder **"iOS Based Development/frontend/Shopping"** in Xcode. (**Shopping** folder is the only one need to be opened on Xcode)
 
 3. Install the required libraries via Swift Package Manager.
 
