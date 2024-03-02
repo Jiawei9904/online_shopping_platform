@@ -4,7 +4,7 @@
 
 This project is an advanced web application designed for product search, leveraging the eBay API to display search results, details, and similar product suggestions. It incorporates user interaction features such as product wishlisting and sharing on Facebook account.
 
-## Websites Developemnt
+## Website Developemnt
 
 ### Access To Frontend
 
