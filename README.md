@@ -112,3 +112,7 @@ Developed using Swift and SwiftUI, this section of the project extends the produ
 3. Install the required libraries via Swift Package Manager.
 
 4. Build and run the app on an iOS simulator or physical device.
+
+## Acknowledgements
+- Thanks to the eBay API for providing the rich set of resources
+- Appreciation for SwiftUI, Bootstrap and SF Symbols for their excellent UI components.
