@@ -1,4 +1,4 @@
-# Full-Stack Shopping Application Based on Website and iOS Systmem
+# Full-Stack Shopping Application Based on Website and iOS System
 
 ## Overview
 
